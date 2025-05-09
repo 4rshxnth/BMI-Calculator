@@ -32,5 +32,5 @@ A simple and responsive Body Mass Index (BMI) calculator built using HTML, CSS, 
 
 ## 📸 Preview
 
-🔗 [Click here for Live Preview of the Website](https://4rshxnth.github.io/BMI-Calculator/)
+🔗 [Click here for Live Preview of the Website](https://4rshxnth.github.io/BMI-Calculator-Using-JS/)
 
